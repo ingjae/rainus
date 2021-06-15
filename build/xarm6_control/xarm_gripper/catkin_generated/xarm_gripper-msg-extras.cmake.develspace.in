@@ -1,0 +1,2 @@
+set(xarm_gripper_MESSAGE_FILES "/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveAction.msg;/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveActionGoal.msg;/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveActionResult.msg;/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveActionFeedback.msg;/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveGoal.msg;/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveResult.msg;/home/clavis/catkin_ws/devel/share/xarm_gripper/msg/MoveFeedback.msg")
+set(xarm_gripper_SERVICE_FILES "")

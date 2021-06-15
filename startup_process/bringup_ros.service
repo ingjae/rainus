@@ -1,0 +1,9 @@
+[Unit]
+Description=Bringup ROS launch 
+
+[Service]
+ExecStart=/home/threewatt-lp/script/ros_server_init.sh
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target

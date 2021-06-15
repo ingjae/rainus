@@ -1,0 +1,9 @@
+[Unit]
+Description=Bringup Realsense camera & fiducial launch 
+
+[Service]
+ExecStart=/home/threewatt-lp/script/camera_fiducial.sh
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
